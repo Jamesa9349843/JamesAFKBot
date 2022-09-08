@@ -102,6 +102,8 @@ HELP_TEXT = f"""Welcome to {botname}'s Help Section.
 
 
 /settings - To change or edit basic settings of AFK Bot.
+
+- Bot Owner: @itzz_james
 """
 
 def settings_markup(status: Union[bool, str] = None):
