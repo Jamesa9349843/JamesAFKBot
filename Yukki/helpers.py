@@ -87,9 +87,9 @@ RANDOM = [
 ]
 
 
-HELP_TEXT = f"""Welcome to {botname}'s Help Section.
+HELP_TEXT = f"""Welcome to {botname} Help Section.
 
-- When someone mentions you in a chat, the user will be notified you are AFK. You can even provide a reason for going AFK, which will be provided to the user as well.
+▷ When someone mentions you in a chat, the user will be notified you are AFK. You can even provide a reason for going AFK, which will be provided to the user as well.
 
 
 /afk - This will set you offline.
@@ -101,9 +101,7 @@ HELP_TEXT = f"""Welcome to {botname}'s Help Section.
 /afk [Replied to a Sticker/Photo] [Reason] - This will set you afk with an image and reason both.
 
 
-/settings - To change or edit basic settings of AFK Bot.
-
-- Bot Owner: @itzz_james
+▷ Bot Owner: @itzz_james
 """
 
 def settings_markup(status: Union[bool, str] = None):
