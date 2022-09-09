@@ -82,8 +82,9 @@ RANDOM = [
     "https://te.legra.ph/file/b08622f7d74ff089c90ad.jpg",
     "https://te.legra.ph/file/80fd0e0e64854867ba389.jpg",
     "https://te.legra.ph/file/ab6e053adfdd62311a9b1.jpg",
-    "https://te.legra.ph/file/37a87c1c6f56a8fcbbb9f.jpg",
-    "https://telegra.ph//file/07bb5f805178ec24871d3.jpg"
+    "https://te.legra.ph/file/47ea646ae7fcfc1e63997.jpg",
+    "https://te.legra.ph/file/4b430f271aefeae9dfa58.jpg",
+    "https://te.legra.ph/file/6cf4f5fb8402f937b1700.jpg",
 ]
 
 
