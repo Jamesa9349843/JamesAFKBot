@@ -39,7 +39,7 @@ async def on_start(_, message: Message):
         ]
     )
     image = random.choice(RANDOM)
-    send = await message.reply_photo(image, caption=f"Hello! My name is {botname}.\n\nTo know more about me check help section. Active since {Uptime}". \n\nJoin: @blackpinkofficial_groupchat, reply_markup=upl)
+    send = await message.reply_photo(image, caption=f"Hello! My name is {botname}.\n\nTo know more about me check help section. Active since {Uptime}".\n\nJoin: @blackpinkofficial_groupchat, reply_markup=upl)
     await put_cleanmode(message.chat.id, send.message_id)
     
 
